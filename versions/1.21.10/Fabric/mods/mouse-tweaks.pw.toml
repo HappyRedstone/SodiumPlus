@@ -1,13 +1,13 @@
 name = "Mouse Tweaks"
-filename = "MouseTweaks-fabric-mc1.21-2.26.jar"
+filename = "MouseTweaks-fabric-mc1.21.9-2.29.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/aC3cM3Vq/versions/ylmBQ38A/MouseTweaks-fabric-mc1.21-2.26.jar"
+url = "https://cdn.modrinth.com/data/aC3cM3Vq/versions/ULOi34Uh/MouseTweaks-fabric-mc1.21.9-2.29.jar"
 hash-format = "sha512"
-hash = "1744a48a47aedcbf19a0a93f78473cf0221fc4782852dca7fc02685719174664b4f9d95d353fcfc16902ac3815594511ba6d9ab14391f9b7e25ec9b2e777927a"
+hash = "b93539c1484bec68cc1f9cd3b9aebb8c2994eed3dedd3574e20bc3f1ec95c885b3d132a0924b5a65b9b3f15fb3ec463ad18004c6b8ecfa27cba66390295d1264"
 
 [update]
 [update.modrinth]
 mod-id = "aC3cM3Vq"
-version = "ylmBQ38A"
+version = "ULOi34Uh"

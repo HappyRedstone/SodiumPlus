@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.21.10] - 2025-10-12
+
+### Changed
+
+- Updated mods for 1.21.10 Fabric, removed non-compatible versions except "cloth-config" (1.21.9). NeoForge (copied from 1.21.1) was ignored.
+
 ## [Unreleased - v3]
 
 ### Changes
